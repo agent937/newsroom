@@ -6,5 +6,9 @@
     {
         "name": "블로터",
         "url": "https://www.bloter.net/rss/allArticle.xml"
+    },
+    {
+        "name": "구글뉴스",
+        "url": "https://news.google.com/rss/search?q=IT+과학&hl=ko&gl=KR&ceid=KR:ko"
     }
 ]
