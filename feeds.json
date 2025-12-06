@@ -10,5 +10,9 @@
     {
         "name": "구글뉴스",
         "url": "https://news.google.com/rss/search?q=IT+과학&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+        "name": "긱뉴스",
+        "url": "https://news.hada.io/rss/news"
     }
 ]
