@@ -1,0 +1,10 @@
+[
+    {
+        "name": "구글뉴스 IT",
+        "url": "https://news.google.com/rss/search?q=IT&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+        "name": "블로터",
+        "url": "https://www.bloter.net/rss/allArticle.xml"
+    }
+]
